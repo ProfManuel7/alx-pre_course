@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "SE School is just fun"
-"The school is open!"
+echo "The school is open!"
